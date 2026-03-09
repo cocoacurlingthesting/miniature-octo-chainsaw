@@ -56,8 +56,8 @@
 /* Example @font-face implementation */
 @font-face {
     font-family: 'OpenDyslexic';
-    src: url('path/to/OpenDyslexic-Regular.woff2') format('woff2'),
-         url('path/to/OpenDyslexic-Regular.woff') format('woff');
+    src: url('https://github.com/cocoacurlingthesting/miniature-octo-chainsaw/raw/refs/heads/main/OpenDyslexic-Regular.otf') format('otf'),
     font-weight: normal;
     font-style: normal;
 }
+
